@@ -1,10 +1,10 @@
 # Task List - Automated Deployment Pipeline
 
-- [ ] Implement Health Check API
-- [ ] Configure Project URLs
-- [ ] Write Unit Tests for Health Check
-- [ ] Add Requirements and Linting Config
-- [ ] Create Dockerfile and Docker Compose
-- [ ] Set up GitHub Actions CI Workflow
-- [ ] Write README documentation
-- [ ] Push to GitHub incrementally
+- [x] Implement Health Check API
+- [x] Configure Project URLs
+- [x] Write Unit Tests for Health Check
+- [x] Add Requirements and Linting Config
+- [x] Create Dockerfile and Docker Compose
+- [x] Set up GitHub Actions CI Workflow
+- [x] Write README documentation
+- [x] Push to GitHub incrementally
